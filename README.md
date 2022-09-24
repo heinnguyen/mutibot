@@ -1,6 +1,6 @@
-# mutibot được chỉnh sửa và config lại từ https://github.com/mlguys/manage-bot-cycles 
-# bản manage-bot-cycles của tác giả chạy được hoàn hảo từ bản 1.4 với coinalpha/hummingbot:$TAG
-# bản mutibot này chạy cá nhân bản 1.7 với hummingbot/hummingbot:$TAG
+### mutibot được chỉnh sửa và config lại từ https://github.com/mlguys/manage-bot-cycles 
+### Bản manage-bot-cycles của tác giả chạy được hoàn hảo từ bản 1.4 với coinalpha/hummingbot:$TAG
+### Bản mutibot này chạy cá nhân bản 1.7 với hummingbot/hummingbot:$TAG
 
 Cái này để khởi chạy và remove nhiều docker hummingbot bản 1.7 >
 
