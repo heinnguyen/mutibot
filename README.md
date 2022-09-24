@@ -65,6 +65,7 @@ asd-eth-usdt/
 
 ## Launching Bots
 To launch bot you will need to specify what bot to run in `bots_to_run` file, for example, this is the current content of the file:
+Muốn chạy bot nào thì cấu hình vào file `bots_to_run` dạng ( với điều kiện phải tồn tại tư mục bin-firo-btc_files ngoài kia ): 
 ```
 bin-firo-btc
 kucoin-btc-usdt
