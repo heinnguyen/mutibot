@@ -28,7 +28,7 @@ create_instance () {
  # 4) Set environment variable
  export STRATEGY="pure_market_making"
  export CONFIG_FILE_NAME="conf_pure_mm_$1.yml"
- export CONFIG_PASSWORD='Shiverone1#'
+ export CONFIG_PASSWORD=''
 
  # 5) Launch a new instance of hummingbot
  docker run -itd  \
